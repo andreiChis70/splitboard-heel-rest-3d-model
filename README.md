@@ -22,4 +22,4 @@ Click the link below to view and interact with the 3D model:
 You can directly download the `.stl` file here:
 
 - [Download STL](https://github.com/andreiChis70/splitboard-heel-rest-3d-model/releases/latest)
-- Download Count: **[Download Count: 4]**
+- Download Count: **[Download Count: 5]**
